@@ -1,0 +1,2 @@
+# mamurjorPHP
+php partice code
